@@ -1,0 +1,20 @@
+item { 
+	id: 1
+	name: 'front_car'
+}
+item { 
+	id: 2
+	name: 'back_car'
+}
+item { 
+	id: 3
+	name: 'overturn_car'
+}
+item { 
+	id: 4
+	name: 'accident'
+}
+item { 
+	id: 5
+	name: 'emergency_situation'
+}
